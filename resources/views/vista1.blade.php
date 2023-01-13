@@ -46,7 +46,7 @@
                 </div>
                 <h1 class="title">
                 @php
-                   echo 'Esto es la VISTA 1'
+                   echo 'dimas'
                 @endphp
                 </h1>
                 
